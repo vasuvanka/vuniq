@@ -2,7 +2,7 @@
 Uniq string ID generator for JavaScript.
 
 ```js
-import uniq from "https://deno.land/x/vuniq/uniq.ts"
+import uniq from "https://deno.land/x/vuniq/mod.ts"
 // default length is 12
 uniq() //=> "sbYWZ1yWjU"
 
