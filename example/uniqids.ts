@@ -1,4 +1,4 @@
-import uniq from "../uniq.ts";
+import uniq from "../mod.ts";
 
 const array = [1,2,3,4];
 let count = 10
