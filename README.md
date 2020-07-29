@@ -1,5 +1,5 @@
 # Uniq
-Uniq string ID generator for JavaScript.
+Uniq string ID generator for Deno.
 
 ```js
 import uniq from "https://deno.land/x/vuniq/mod.ts"
